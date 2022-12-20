@@ -1,7 +1,7 @@
 <!-- Your title -->
 <h2 align="center">
   <a href="https://www.qindalin.com/">
-    <img width="33%" src="https://user-images.githubusercontent.com/109313204/208152375-204ea6cc-ab86-470b-9c9e-03595cec4dfd.gif">
+    Hi, I'm Farouk.
   </a>
 </h2>
 <br>
