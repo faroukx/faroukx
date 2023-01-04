@@ -1,6 +1,6 @@
 <!-- Your title -->
 <h2 align="center">
-  <a href="https://www.qindalin.com/">
+  <a href="https://github.com/faroukx/">
     Hi, I'm Farouk.
   </a>
 </h2>
