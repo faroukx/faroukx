@@ -17,7 +17,7 @@
   </a>
 
 <!-- Talking about you -->
-I'm not a developer, I'm just a user of the Obsidian app and I'd like to share what I've created and discovered to improve this app and to have a good experience using it.
+I don't consider myself a developer, I just like to use the Obsidian app and to share what I have created to have a better experience using it.
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
