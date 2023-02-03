@@ -1,5 +1,5 @@
 <!-- title -->
-![farouk](https://user-images.githubusercontent.com/109313204/216704038-c516ec96-b4e6-4119-96c2-2c7ea280839c.png)
+![farouk](https://github.com/faroukx/faroukx/blob/main/img/farouk.png?raw=true)
 
 
 <!-- Your github readme stats // You can use this api: https://github.com/anuraghazra/github-readme-stats -->
@@ -10,7 +10,7 @@
   </a>
 
 <!-- Talking about you -->
-# Hi, I'm Farouk! <img src="https://user-images.githubusercontent.com/109313204/216702210-074dd9e0-6840-4d87-b52a-a7c2a99a2d69.gif" width="30px">
+# Hi, I'm Farouk! <img src="https://github.com/faroukx/faroukx/blob/main/img/wave.gif?raw=true" width="30px">
   
 Focused on creating and sharing with the Obsidian.md community. Driven to enhance our collective experience with the app.
 
