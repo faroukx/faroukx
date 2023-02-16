@@ -14,8 +14,6 @@
   
 Focused on creating and sharing with the Obsidian.md community. Driven to enhance our collective experience with the app.
 
-Thanks for visiting!
-
 
 <!-- visitors -->
 <p align="left">
