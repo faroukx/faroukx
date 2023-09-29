@@ -10,7 +10,7 @@
   </a>
 
 <!-- Talking about you -->
-# Hi, I'm Farouk! <img src="https://github.com/faroukx/faroukx/blob/main/img/wave.gif?raw=true" width="30px">
+# Hi, I am Farouk!
   
 Focused on creating and sharing with the Obsidian.md community. 
 
