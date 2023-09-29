@@ -12,7 +12,7 @@
 <!-- Talking about you -->
 # Hi, I'm Farouk! <img src="https://github.com/faroukx/faroukx/blob/main/img/wave.gif?raw=true" width="30px">
   
-Focused on creating and sharing with the Obsidian.md community. Driven to enhance our collective experience with the app.
+Focused on creating and sharing with the Obsidian.md community. 
 
 
 <!-- visitors -->
