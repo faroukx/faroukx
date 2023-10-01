@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://github.com/faroukx/handle-path-oz">
-<img src="https://readme-components.vercel.app/api?component=text&text=I'M%20FAROUK&fill=linear-gradient%28to%20top%2C%20%23f8bb98%200%25%2C%20%23f6e0c8%20100%25%29%3B">
-</a>
-</p>  
-
 ![farouk](https://github.com/faroukx/faroukx/blob/main/img/farouk.png?raw=true)
 
 # Hi, I am Farouk! 👋
